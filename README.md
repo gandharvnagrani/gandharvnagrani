@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gandharvnagrani
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently an Industrial Engineering Sophomore at the University of Toronto
-- 💞️ I’m looking to collaborate on any entry-level data science projects/internships
+- 👀 I’m interested in Data Science and Software Engineering
+- 👨‍💻 Industrial Engineering Sophomore at the University of Toronto
+- 🤝 I’m looking to collaborate on any entry-level data science projects/internships
 - 📫 How to reach me linkedin.com/in/gandharv-nagrani or @gandharvnagrani on Instagram
 
 <!---
